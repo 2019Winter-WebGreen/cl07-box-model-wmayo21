@@ -1,0 +1,49 @@
+/*
+*Wendy Mayo
+*Due Date
+*Project Name and Description
+*/
+
+/* The universal selector */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Body attributes here */
+body {
+    padding-left:1em;
+    padding-bottom:1em;
+    padding-top: 1em;
+    padding-right: 4em;
+    border: 2px dotted black;
+    margin:.5em;
+}
+
+main {
+    padding-left:.5em;
+    padding-bottom:.5em;
+    padding-top: 2em;
+    padding-right: .5em;
+    border:2px solid black;
+    
+}
+
+h1{
+    padding-left:.5em;
+    padding-bottom:.5em;
+    padding-top: .5em;
+    padding-right: 2em;
+    border: 1px dashed black;
+    font-size: 25pt
+}
+
+p{
+    padding-left:1em;
+    padding-bottom:1em;
+    padding-top: 1em;
+    padding-right: 4em;
+    border: 1px dashed black;
+    margin-top: .5em;
+    font-size: 
+}
+
